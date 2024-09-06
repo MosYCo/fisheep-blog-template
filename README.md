@@ -3,7 +3,7 @@
 请按照以下步骤操作
 
 ## 安装
-1. 【创建仓库】点击通过模板创建仓库，建议仓库名称为`XXX.github.io`, 其中`XXX`为你的github用户名。
+1. 【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=fisheep-blog-template&template_owner=MosYCo)，建议仓库名称为`XXX.github.io`, 其中`XXX`为你的github用户名。
 2. 【启用Pages】在创建的仓库`Settings`中`Pages -> Build and deployment -> Source`下面选择`Github Actions`。
 3. 【开始写作】创建一篇Issue，开始写作，可自行添加标签，目前预定义两个特殊标签作为相关功能文章
 
